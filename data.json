@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "land_number":"123",
+        "name": "aditya",
+        "taxAmount": "123",
+        "status":"pending",
+        "aadhar_number":"123412341234"
+ },
+    {
+        "id": 2,
+        "land_number":"124",
+        "name": "aman",
+        "taxAmount": "2342",
+        "status":"completed",
+        "aadhar_number":"123567890123"
+ },
+    {
+        "id": 3,
+        "land_number":"125",
+        "name": "niminsh",
+        "taxAmount": "1235",
+        "status":"pending",
+        "aadhar_number":"123412341212"
+ },
+    {
+        "id": 4,
+        "land_number":"126",
+        "name": "komal",
+        "taxAmount": "245",
+        "status":"completed",
+        "aadhar_number":"123412341230"
+ },
+    {
+        "id": 5,
+        "land_number":"127",
+        "name": "ranu",
+        "taxAmount": "16573",
+        "status":"pending",
+        "aadhar_number":"123654789258"
+ },
+    {
+        "id": 6,
+        "land_number":"128",
+        "name": "lal",
+        "taxAmount": "1657",
+        "status":"pending",
+        "aadhar_number":"159632589630"
+ },
+    {
+        "id": 7,
+        "land_number":"129",
+        "name": "shanks",
+        "taxAmount": "67575",
+        "status":"completed",
+        "aadhar_number":"159632478523"
+ },
+    {
+        "id":8,
+        "land_number":"130",
+        "name": "zoro",
+        "taxAmount": "876",
+        "status":"pending",
+        "aadhar_number":"452369817452"
+ },
+    {
+        "id": 9,
+        "land_number":"131",
+        "name": "naruto",
+        "taxAmount": "456",
+        "status":"pending",
+        "aadhar_number":"785236941235"
+ },
+    {
+        "id": 10,
+        "land_number":"132",
+        "name": "slaman",
+        "taxAmount": "45654",
+        "status":"completed",
+        "aadhar_number":"789645123456"
+ }
+]
